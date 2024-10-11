@@ -1,7 +1,4 @@
 
-Memory updated
-Here's a professional README for your movie app project on GitHub:
-
 Movie App
 A responsive Movie App built with HTML, CSS, and JavaScript. This app allows users to browse and search for movies, providing detailed information about each movie such as ratings, descriptions, and more.
 
